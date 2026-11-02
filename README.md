@@ -19,3 +19,7 @@ Project #1과 Project #2의 소스 코드는 이 저장소에 포함하지 않�
 ## 저장소 구성
 
 이 저장소의 설명 파일은 README.md입니다.
+
+## 작성자
+
+KyehongPark
