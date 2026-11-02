@@ -23,3 +23,5 @@ Project #1과 Project #2의 소스 코드는 이 저장소에 포함하지 않�
 ## 작성자
 
 KyehongPark
+
+제출 전 저장소 페이지에서 커밋 10개와 README.md를 확인합니다.
